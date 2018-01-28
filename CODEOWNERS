@@ -1,0 +1,5 @@
+# For the usage of CODEOWNERS, please refer to https://help.github.com/articles/about-codeowners
+
+# These owners will be the default owners for everything in
+# the repo.
+* @supereagle
